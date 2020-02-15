@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
 {
 
     public Transform player;
-    public float smoothSpeed = 3f;
+    public float smoothSpeed = 2f;
     public Vector3 offsets;
     // Update is called once per frame
     void FixedUpdate()
